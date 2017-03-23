@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vue-migration-help",
+        "command": "vue-migration-help:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vue-migration-help",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vue-migration-help:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
