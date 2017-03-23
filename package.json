@@ -1,9 +1,13 @@
 {
   "name": "vue-migration-help",
   "main": "./lib/vue-migration-help",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Vue migration helper plugin for atom",
-  "keywords": ["atom", "vue migration help", "vue"],
+  "keywords": [
+    "atom",
+    "vue migration help",
+    "vue"
+  ],
   "repository": "https://github.com/dsxbb/vue-migration-helper.git",
   "license": "MIT",
   "engines": {
