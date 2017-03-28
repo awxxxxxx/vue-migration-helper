@@ -1,7 +1,7 @@
 {
   "name": "vue-migration-help",
   "main": "./lib/vue-migration-help",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vue migration helper plugin for atom",
   "keywords": [
     "atom",
