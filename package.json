@@ -1,14 +1,14 @@
 {
   "name": "vue-migration-help",
   "main": "./lib/vue-migration-help",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Vue migration helper plugin for atom",
   "keywords": [
     "atom",
     "vue migration help",
     "vue"
   ],
-  "package-deps":[
+  "package-deps": [
     "linter",
     "linter-ui-default"
   ],
