@@ -8,6 +8,10 @@
     "vue migration help",
     "vue"
   ],
+  "package-deps":[
+    "linter",
+    "linter-ui-default"
+  ],
   "repository": "https://github.com/dsxbb/vue-migration-helper.git",
   "license": "MIT",
   "engines": {
